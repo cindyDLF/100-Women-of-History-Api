@@ -1,0 +1,800 @@
+{
+  "women": [
+    {
+      "id": 1,
+      "name": "Rachel Carson",
+      "description":
+        "Pioneer environmentalist Rachel Carson wrote the book that helped create the environmentalist movement in the late 20th century.",
+      "img":
+        "https://www.thoughtco.com/thmb/Y_Pji9EvMxcLbOG_3CIOVAVw13g=/4478x2985/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rachel-Carson-149417713x-58b74cc85f9b588080563cd1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Isadora Duncan",
+      "description":
+        "Isadora Duncan brought modern dance to the world, while living (and dying) with personal tragedy.",
+      "img":
+        "https://www.thoughtco.com/thmb/VlaY_lvN86TyIgOOp-gD3InMWlA=/3600x2400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Isadora-Duncan-464417975x-58b74d285f9b588080566a15.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Artemisia",
+      "description":
+        "Ruler of Halicarnassus, Artemisia helped Xerxes defeat the Greeks and then helped talk him into abandoning the war against the Greeks."
+    },
+    {
+      "id": 4,
+      "name": "Martha Graham",
+      "description":
+        "Martha Graham was a dancer and choreographer best known as a leader of the modern dance expressionist movement, expressing emotion through dance.",
+      "img":
+        "https://www.thoughtco.com/thmb/hdw-AeizOxaFdjJbeXpX3JtLKU4=/4610x3074/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Martha-Graham-x1-2669355-58b74d205f9b588080566808.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Angela Davis",
+      "description":
+        "Davis's support for revolutionary black activist George Jackson led to her arrest as a conspirator in the abortive attempt to free Jackson from a Marin County, California, courtroom. Angela Davis was acquitted of all charges and became a renowned teacher and writer about feminism, black issues, and economics.",
+      "img":
+        "https://www.thoughtco.com/thmb/WBg-NSILTeAbxK5TuU-Npdj6mGw=/3295x2197/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Angela-Davis-x1-52604010-58b74d193df78c060e22d646.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Golda Meir",
+      "description":
+        "Golda Meir, a labor activist, Zionist, and politician, was the fourth prime minister of the state of Israel and second woman prime minister in the world. The Yom Kippur War, between Arabs and Israelis, was fought during her term as prime minister.",
+      "img":
+        "https://www.thoughtco.com/thmb/HdkRFan8JpdgSzeRBh5pjgo7Ijs=/3541x2361/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185130213x-58b74d135f9b58808056643a.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Elizabeth Blackwell",
+      "description":
+        "Elizabeth Blackwell was the first woman in the world to graduate from medical school. Blackwell was also a pioneer in the education of women in medicine.",
+      "img":
+        "https://www.thoughtco.com/thmb/CxGdw-WWZ-qvkPzD1r-llJWfPOI=/3000x2001/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Elizabeth-Blackwell-51887403x-58b74d0c5f9b5880805661fd.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gertrude Stein",
+      "description":
+        "Gertrude Stein was a writer and associate of many of the 20th century's cutting-edge writers and artists. Her salon in Paris was a center of modernist culture. She's known for her stream-of-consciousness style.",
+      "img":
+        "https://www.thoughtco.com/thmb/l18pk-MUkM10JyqSo-zX9nK8_c4=/3000x2000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gertrude-Stein-GettyImages-2666144-58b74d065f9b588080565f8f.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Caroline Kennedy",
+      "description":
+        "A proponent of her own privacy and that of her family, Caroline Kennedy (Schlossberg) is a lawyer and writer who has been in the public eye since her father, John F. Kennedy, took office as President in 1961. Her books include a 1995 book on privacy. ",
+      "img":
+        "https://www.thoughtco.com/thmb/vSmZFtlWIxft4H-xOLo-PgT4XqY=/1024x682/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-529090138-5b455c1d46e0fb005bd78800.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Margaret Mead",
+      "description":
+        "Margaret Mead was an American anthropologist whose groundbreaking work, especially in Samoa in the 1920s, was strongly critiqued after her death. She emphasized cultural evolution and personal observation.",
+      "img":
+        "https://www.thoughtco.com/thmb/XJ0S94oaCq0oeW7NA1lXVWjl3hw=/2880x2298/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515301880-5b455c7146e0fb003754a417.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Jane Addams",
+      "description":
+        "A pioneer in social work, Jane Addams founded Hull-House in the 19th century and led it well into the 20th. She was also active in peace and feminist work.",
+      "img":
+        "https://www.thoughtco.com/thmb/DXurheAvWoaflAUKzLOcw32-I_8=/3438x2292/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Jane-Addams-2696444x-58b749843df78c060e20459c.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Lena Horne",
+      "description":
+        "The sultry singer began at Harlem's Cotton Club and rose to stardom in both the film and music industries, even as she struggled to overcome the limitations placed on her career by racism.",
+      "img":
+        "https://www.thoughtco.com/thmb/xk1u6GkfU6Ehdg8pvCLu8UiL7WQ=/3990x3186/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3123057-5b455f9a46e0fb00375528ec.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Margaret Sanger",
+      "description":
+        "After seeing the suffering caused by unwanted and unplanned pregnancies among the poor women she served as a nurse, Margaret Sanger took up a lifetime cause: the availability of birth control information and devices.",
+      "img":
+        "https://www.thoughtco.com/thmb/HxtFguqa2t4OTmfaSKObBXvJBWs=/1024x882/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515301412-5b455ff4c9e77c0037765c59.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Elizabeth Cady Stanton",
+      "description":
+        "Elizabeth Cady Stanton was the intellectual leader and strategist of the 19th century's women's rights movement, though her friend and lifelong partner in activism, Susan B. Anthony, was more of a public face to the movement.",
+      "img":
+        "https://www.thoughtco.com/thmb/j-OZi1Gle7rKZ0hgufSlEjmxO0c=/1024x649/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515356118-5b45605fc9e77c003730201b.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Erma Bombeck",
+      "description":
+        "Erma Bombeck's humor helped document the life of women in the 20th century as wives and mothers in suburban homes.",
+      "img":
+        "https://www.thoughtco.com/thmb/8v3dKTQqoucE_M2N1Whmn8wHXTA=/1024x684/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-869387752-5b4560c246e0fb0037b2f4ae.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Calamity Jane",
+      "description":
+        "Calamity Jane was one of the best-known women of the American \"Wild West.\" Scandalous enough as a woman who dressed as a man and infamous for drinking and fighting, she embellished her life story considerably.",
+      "img":
+        "https://www.thoughtco.com/thmb/-hxONKRvDPI4A2pcJOoATNagqBs=/1024x774/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-566420093-5b45612246e0fb0037ba1acb.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Charlotte Brontë",
+      "description":
+        "Charlotte Brontë was one of three brilliant sisters, writers of the 19th century, each of whom died while still relatively young. Charlotte's best-known work is the novel Jane Eyre, which drew from her own experience as a student in an inhumane school and as a governess.",
+      "img":
+        "https://www.thoughtco.com/thmb/lcktY_mN8STF1hC4DVwRp1JgMOs=/3896x3100/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3247498-5b45622946e0fb0037a87c73.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Ida Tarbell",
+      "description":
+        "Muckraking journalist Ida Tarbell was one of the few women to succeed in that circle. She exposed the predatory pricing practices of John D. Rockefeller, and her articles about his company helped bring about the downfall of Standard Oil of New Jersey.",
+      "img":
+        "https://www.thoughtco.com/thmb/im7aFm2nqupyOJSqEQmNXnv0_nw=/4979x3725/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-461192917-5b4562eb46e0fb0037e6697a.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Hypatia",
+      "description":
+        "Hypatia is known as the ancient world's most famous woman mathematician, philosopher, and astronomer. Her enemy, Cyril, archbishop of Alexandria, may have called for her death. She was a pagan martyr, torn apart by a mob of Christian monks.",
+      "img":
+        "https://www.thoughtco.com/thmb/R5zZsvkzNl8TF4Cs6ub0adS7Lwg=/1024x775/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-517398340-5b456335c9e77c003733579a.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Colette",
+      "description":
+        "A French novelist of the 20th century, Colette was noted for her unconventional and risqué themes and lifestyle.",
+      "img":
+        "https://www.thoughtco.com/thmb/bGiR8oqV52_AEmz9Jxb8LRy-_r8=/3480x2532/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3245600-5b4563d346e0fb005bde8b25.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Sacagawea",
+      "description":
+        "Sacagawea (or Sacajawea) guided the Lewis and Clark expedition, not completely of her own volition. In 1999 her image was selected for the U.S. dollar coin.",
+      "img":
+        "https://www.thoughtco.com/thmb/4PWxvtHBH2SKS1a42jORtViMnDY=/3600x2400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sacagawea-3093483x-58b74cf95f9b588080565b70.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Judy Collins",
+      "description":
+        "Part of the 1960s folk revival, with music that is still popular today, Judy Collins made history by singing during the Chicago 7 conspiracy trial.",
+      "img":
+        "https://www.thoughtco.com/thmb/4T2tP5U-Nu4hMhsgFIt-Fk-uXzo=/1024x822/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-987607588-5b4564ac46e0fb0037560cb7.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Abigail Adams",
+      "description":
+        "Abigail Adams was the wife of the second U.S. president and mother of the sixth. Her intellect and lively wit come alive in her many letters, which were preserved.",
+      "img":
+        "https://www.thoughtco.com/thmb/AvGO86lSX4WmBVTQI9OLkYlUMBE=/3726x2734/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3087603-5b45656046e0fb0037562cf5.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Margaret Thatcher",
+      "description":
+        "Margaret Thatcher was the first woman prime minister in Europe. She's also, to this date, the longest-serving British prime minister since 1894. Famous (or infamous) for her conservative politics, she also presided over the British retaking of the Falkland Islands from Argentina.",
+      "img":
+        "https://www.thoughtco.com/thmb/OnbQ3oO_r_Mxf0LLYzjH4xcNYgU=/1024x710/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515114190-5b45667046e0fb0037565bd8.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Sally Ride",
+      "description":
+        "Sally Ride was a nationally ranked tennis player, but she chose physics over sports and ended up as the first American woman astronaut in space, a NASA planner, and a science professor.",
+      "img":
+        "https://www.thoughtco.com/thmb/vjPflH-cAIJX9w-yW7UeiRapapg=/5053x3466/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-149314510-5b4567ab46e0fb0037a973c4.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Emily Brontë",
+      "description":
+        "Emily Brontë was the middle of the three famous novelist and poet sisters of the 19th century, along with Charlotte Brontë and Anne Brontë. Emily Brontë is best remembered for her dark and unusual novel, \"Wuthering Heights.\" She's also credited as a major influence, in her poetry, on Emily Dickinson.",
+      "img":
+        "https://www.thoughtco.com/thmb/ePlxhnqcW7mL-3L2MZB4g0YHyC4=/3600x3186/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-2696425-5b456935c9e77c003777f61e.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Hatshepsut",
+      "description":
+        "Hatshepsut reigned as Pharaoh of Egypt about 3,500 years ago, taking on the titles, powers, and ceremonial clothing of a male ruler. Her successor tried to wipe her name and image from history; fortunately for our knowledge of this early woman leader, he did not entirely succeed.",
+      "img":
+        "https://www.thoughtco.com/thmb/MyQjMAUsPivb68O2PHX-EazwP9w=/4374x2871/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-51355305-5b4569efc9e77c003778184b.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Salome",
+      "description":
+        "Biblical character Salome is known for asking her stepfather, Antipas, for the head of John the Baptist, when he offered her a reward for her dancing at his birthday feast. Salome's mother, Herodias, had prearranged for this request with her daughter. Salome's story was adapted into a drama by Oscar Wilde and an opera by Richard Strauss, based on the Wilde drama. Another woman named Salome was present at the crucifixion of Jesus, according to the Gospel of Mark.",
+      "img":
+        "https://www.thoughtco.com/thmb/Wy0FX3MiU5MpE2JGY05V79FAzaA=/1024x836/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-600005579-5b456b9846e0fb0037aa1d4b.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Indira Gandhi",
+      "description":
+        "Indira Gandhi was the prime minister of India and a member of a prominent Indian political family. Her father, Jawaharlal Nehru, and two of her sons were also Indian prime ministers.",
+      "img":
+        "https://www.thoughtco.com/thmb/2E1BvSjnTUXkv0HA40HtAXjmy-k=/3543x2349/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-167875874-5b456d27c9e77c003753b603.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Rosie the Riveter",
+      "description":
+        "Rosie the Riveter was a fictional character who represented the World War II civilian service on the homefront in the factory of many American women. She has come to represent all the industrial women workers in the war effort. After the war, many \"Rosies\" once again took up traditional domestic roles as housewives and mothers.",
+      "img":
+        "https://www.thoughtco.com/thmb/VfC0XY2ewR_vBP1hhs_i1jC68SE=/3505x2550/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-2665142-5b456db746e0fb0037e83ee8.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Mother Jones",
+      "description":
+        "A labor organizer, Mother Jones was born in Ireland and didn't become active in labor causes until she was in her late 50s. She's best known for her support of mine workers in several key strikes.",
+      "img":
+        "https://www.thoughtco.com/thmb/8zAo2dX00E2XCHGlXqIY42ODvIY=/1027x685/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mother-Jones-x-3a10320u-58b74cf35f9b588080565911.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Mary Queen of Scots",
+      "description":
+        "Mary was the Queen of France (as a consort) and Queen of Scotland (in her own right); her marriages caused scandal, and her Catholic religion and kinship with England's Queen Elizabeth I caused enough suspicion of her motives that Elizabeth had her executed.",
+      "img":
+        "https://www.thoughtco.com/thmb/KrxdX8XBV2GcXOpVt7yVzr1Eb6A=/3673x2736/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-51246893-5b456e95c9e77c003778d9f2.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Lady Godiva",
+      "description":
+        "Did Lady Godiva really ride naked on a horse through the streets of Coventry to protest a tax imposed by her husband?",
+      "img":
+        "https://www.thoughtco.com/thmb/qvGkLHJSBqB0MnxfwG5BBF1ItSQ=/3324x2520/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-89857518-5b45704046e0fb0037aae6a5.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Zora Neale Hurston",
+      "description":
+        "Zora Neale Hurston was by profession an anthropologist and folklorist. Her novels, including \"Their Eyes Were Watching God,\" have enjoyed a revival in popularity since the 1970s, thanks to the efforts of writer Alice Walker.",
+      "img":
+        "https://www.thoughtco.com/thmb/OvGDxpTs5PX0uLNKTDavWWemyVQ=/1024x814/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-576768841-5b45719cc9e77c00377955bf.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Nikki Giovanni",
+      "description":
+        "African-American woman poet Nikki Giovanni's early work was influenced by the Black Power movement. Her later work reflects her experience as a single mother.",
+      "img":
+        "https://www.thoughtco.com/thmb/UxYPNxZRsUNQbmhXfp7qbyRJY78=/1024x683/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-596873024-5b45749b46e0fb0037aba33d.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Mary Cassatt",
+      "description":
+        "A rare woman among the Impressionist painters, Mary Cassatt often focused on themes of mothers and children. Her work gained in recognition after her death.",
+      "img":
+        "https://www.thoughtco.com/thmb/Nbf2aFjZdsevYBQZD2kmSeVCfYY=/2471x2150/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-458940999-5b63440846e0fb005045ce66.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Julia Child",
+      "description":
+        "Julia Child is known as the author of \"Mastering the Art of French Cooking.\" Her popular books, television cooking shows, and videos kept her in the public eye. Less well known: her brief spy career.",
+      "img":
+        "https://www.thoughtco.com/thmb/MQQ59VCLUnakNZjmEnU06rBzBv0=/4178x3343/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-82645345-5b63445846e0fb00507c2135.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Barbara Walters",
+      "description":
+        "Barbara Walters, the award-winning journalist specializing in interviews, was, at one time, the highest-paid woman news anchor.",
+      "img":
+        "https://www.thoughtco.com/thmb/XzfMzLBVwNaB7-5SACp2CIf4DZ0=/1024x681/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-519481858-5b634497c9e77c002ca3e4a8.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Georgia O'Keeffe",
+      "description":
+        "Georgia O'Keeffe was an American painter with a unique, spare style. In her later years, she moved to New Mexico, where she painted many desert scenes.",
+      "img":
+        "https://www.thoughtco.com/thmb/6U6mbQHpRPPitSIJYqxgWz-DiDU=/4719x3554/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1946329-5b6344eb46e0fb00250974f3.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Annie Oakley",
+      "description":
+        "Annie Oakley, the sharpshooter, performed with Buffalo Bill's Wild West Show, at first with her husband Frank Butler and later as a solo act.",
+      "img":
+        "https://www.thoughtco.com/thmb/34bsyhrhmyFrlNko22_5LMSEMSI=/1024x672/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515388612-5b63452d46e0fb00259dc5fa.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Willa Cather",
+      "description":
+        "Willa Cather, novelist, documented many periods of American culture, including the settling of the pioneer West.",
+      "img":
+        "https://www.thoughtco.com/thmb/B9LiHBc38u0AVngV6076CDeqeNE=/1024x825/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-514892002-5b634594c9e77c002ca40af1.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Josephine Baker",
+      "description":
+        "Josephine Baker was an exotic dancer who found fame in Paris, helped with the Nazi resistance, was accused of communist sympathies, worked for racial equality, and died shortly after her 1970s comeback.",
+      "img":
+        "https://www.thoughtco.com/thmb/KbE9a-bic33De8XxpSU5BKbX1Ik=/2867x2086/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3299495-5b6345dbc9e77c002572dd44.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Janet Reno",
+      "description":
+        "Janet Reno was the first woman to hold the office of U.S. attorney general. She's remembered for her toughness and for several controversies during her tenure.",
+      "img":
+        "https://www.thoughtco.com/thmb/p1OH13Q3EdxNSdUHpZY5ht-9q4w=/1024x692/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-576832860-5b6346bec9e77c00504dd9e0.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Emily Post",
+      "description":
+        "Emily Post first published her \"Etiquette\" book in 1922, and her family has continued her legacy of flexible, commonsense advice on good manners.",
+      "img":
+        "https://www.thoughtco.com/thmb/cFT59m4WAzOUXfe7UN8mSOUXFVg=/1024x782/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-530731200-5b63479646e0fb0050465989.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Queen Isabella",
+      "description":
+        "Queen Isabella ranks as the 45th most searched woman: but there are several Queen Isabellas whom internet searchers might have been looking up. A likely favorite search was for Isabella of Castile, the erudite ruler who helped unite Spain, supported Columbus' voyage, drove the Jews from Spain, and instituted the Spanish Inquisition. But perhaps some searchers were looking for Isabella of France, queen consort of Edward II of England, who helped arrange his abdication and murder, then ruled with her lover as regent for her son. Other possible searches were for Isabella II of Spain, whose marriage and behavior helped stir up Europe's 19th-century political turmoil or Queen Isabella of Portugal, who served as regent of Spain during her husband's long absences.",
+      "img":
+        "https://www.thoughtco.com/thmb/xe4z51uz14oBrOBhBgsFxOfTCUc=/1024x774/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534262742-5b634853c9e77c0050ba3046.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Maria Montessori",
+      "description":
+        "Maria Montessori was the first woman to earn a medical degree from the University of Rome. She applied learning methods she developed for mentally retarded children to children with intelligence in the normal range. The Montessori method, still popular today, is child-centered and experience-centered.",
+      "img":
+        "https://www.thoughtco.com/thmb/aE9KduLQhAFFMPTpS5Ng_nM5jq8=/1024x831/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-514703936-5b6348a7c9e77c002ca480e6.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Katharine Hepburn",
+      "description":
+        "Katharine Hepburn, a 20th-century film actress, often played strong women at a time when conventional wisdom said that traditional roles were all that would sell movie tickets.",
+      "img":
+        "https://www.thoughtco.com/thmb/GCVn2kqPzUTJQybO3ESvYLjxh4Y=/1024x789/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-517388510-5b634a2946e0fb002c520084.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Harriet Beecher Stowe",
+      "description":
+        "Abraham Lincoln suggested that Harriet Beecher Stowe was the woman who started the Civil War. Her \"Uncle Tom's Cabin\" certainly stirred up a lot of anti-slavery sentiment, but she wrote on more subjects than abolitionism.",
+      "img":
+        "https://www.thoughtco.com/thmb/cc_uRzFfQ69g7nVqvMCQvotikDM=/1024x673/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-613513946-5b634a6bc9e77c0025738a22.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Sappho",
+      "description":
+        "Ancient Greece's best-known poet, Sappho is also known for the company she kept: mostly women. She has been alternately famous and infamous for writing about her passionate relationships with women. She lived on the island of Lesbos: is it fair to call her a lesbian?",
+      "img":
+        "https://www.thoughtco.com/thmb/PcHMyoy4boOngxuZPTy_jxD-eD4=/1024x1010/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-587576116-5b634ad746e0fb00250a5d78.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Sojourner Truth",
+      "description":
+        "Sojourner Truth was best known as an abolitionist, but she was also a preacher and spoke for women's rights. She was one of the most in-demand speakers of the mid-19th century in America.",
+      "img":
+        "https://www.thoughtco.com/thmb/FU1GyWfkDG6IyqzXB6rREmhV97g=/1024x721/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-517724974-5b634b2046e0fb005036d267.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Catherine the Great",
+      "description":
+        "Catherine the Great was the ruler of Russia after she had her husband deposed. She was responsible for the expansion of Russia into Central Europe and to the shores of the Black Sea.",
+      "img":
+        "https://www.thoughtco.com/thmb/GoAJQvUNyqJi1cFHkdRQ4RrltrY=/3600x2400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Catherine-the-Great-464432645x-58b74ce85f9b588080565551.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Mary Shelley",
+      "description":
+        "Mary Shelley, the daughter of Mary Wollstonecraft and William Godwin, eloped with the poet Percy Shelley and later wrote the novel \"Frankenstein\" as part of a bet with Shelley and his friend George, Lord Byron.",
+      "img":
+        "https://www.thoughtco.com/thmb/_X1CHlSlMJjMNIRZ3Y_ZtaM3Rk4=/1024x810/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-599958329-5b634c8846e0fb00250ee286.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Jane Goodall",
+      "description":
+        "Jane Goodall observed and documented the life of chimps in the wild from 1970 into the 1990s, tirelessly working for the better treatment of chimpanzees.",
+      "img":
+        "https://www.thoughtco.com/thmb/enhFKLfYpiWQzsn1D6scO-ZsTHs=/1024x755/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-920094600-5b634cd646e0fb00257fca2c.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Coco Chanel",
+      "description":
+        "Coco Chanel was one of the 20th century's best-known fashion designers. Her look helped define the 1920s and the 1950s.",
+      "img":
+        "https://www.thoughtco.com/thmb/TuNaSgYNGMbVjEZ9IJC64UBR_Ms=/1024x762/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-514693500-5b634d18c9e77c00504ed1d2.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Anais Nin",
+      "description":
+        "The diaries of Anaïs Nin, first published in the 1960s when she was more than 60 years old, frankly discuss her life, her many loves and lovers, and her self-discovery quest.",
+      "img":
+        "https://www.thoughtco.com/thmb/sZ5bViJmgu6WUuhjyKYnOcVMNAM=/1024x921/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-514703614-5b634daf4cedfd0050b13de8.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Isabel Allende",
+      "description":
+        "Journalist Isabel Allende fled Chile when her uncle, the president, was assassinated. After leaving her homeland, she turned to writing novels that look at life, especially women's lives, with both mythology and realism.",
+      "img":
+        "https://www.thoughtco.com/thmb/qkxrsR0ccXff-JzbmlOu-rP3pd8=/1024x682/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-618090920-5b634e3546e0fb00507da215.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Toni Morrison",
+      "description":
+        "Toni Morrison won the 1993 Nobel Prize for literature, and is known for writing about the black woman's experience.",
+      "img":
+        "https://www.thoughtco.com/thmb/twWw0QoE1yRTnpYcrXcvGfI02oY=/1024x804/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-471386202-5b634e6cc9e77c0050bb20cf.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Betsy Ross",
+      "description":
+        "Even if Betsy Ross didn't make the first American flag (she may not have, despite the legend), her life and work shed light on the experience of women in colonial and revolutionary America.",
+      "img":
+        "https://www.thoughtco.com/thmb/-5lht1lc9yHvOItCvzu3HdYxIhM=/1024x727/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-635751089-5b634f40c9e77c0050bb482c.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Marie Antoinette",
+      "description":
+        "Marie Antoinette, Queen Consort to Louis XVI of France, was unpopular with the French people, and ultimately was executed during the French Revolution.",
+      "img":
+        "https://www.thoughtco.com/thmb/pFCyiRPqAB0DFm9V3vyb5Dv-wno=/1024x724/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-520720175-5b634fec46e0fb00820957e1.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Mata Hari",
+      "description":
+        "Mata Hari, one of history's most infamous spies, was executed in 1917 by the French for spying for the Germans. Was she guilty as charged?",
+      "img":
+        "https://www.thoughtco.com/thmb/Xq5Ug6iEFkYPLwFkY85RG5r4rgk=/3508x2532/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3372916-5b63505946e0fb00820965eb.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Jackie Kennedy",
+      "description":
+        "Jackie Kennedy (Jacqueline Kennedy Onassis) first came to public attention as the fashionable and graceful wife of John F. Kennedy, the 35th president of the United States. She served as First Lady from 1961 until her husband's assassination in 1963, and she later married Aristotle Onassis.",
+      "img":
+        "https://www.thoughtco.com/thmb/zj78l6xqvRHFduYNWw9Vp34M-Gw=/3600x2400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Jacqueline-Kennedy-107154119x-58b74ce03df78c060e22c210.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Anne Bradstreet",
+      "description":
+        "Anne Bradstreet, colonial American woman, was America's first poet. Her experiences and writings provide insight into the experience of the early Puritans in New England."
+    },
+    {
+      "id": 63,
+      "name": "Louisa May Alcott",
+      "description":
+        "Louisa May Alcott is best known as author of \"Little Women,\" and less well known for her service as a Civil War nurse and for her friendship with Ralph Waldo Emerson.",
+      "img":
+        "https://www.thoughtco.com/thmb/L2RimjNLs70eOtPJD5MUX5eAO8g=/2808x2106/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3293545-5b6350d846e0fb00507e131a.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Eudora Welty",
+      "description":
+        "Eudora Welty, known as a Southern writer, was a six-time winner of the O. Henry Award for Short Stories. Her many other awards include the National Medal for Literature, the American Book Award, and, in 1969, a Pulitzer Prize.",
+      "img":
+        "https://www.thoughtco.com/thmb/Wb-z2Or3YkBFfcaSTP33dQsy3YM=/3464x2348/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-137261677-5b6351ff46e0fb002c533f19.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Molly Pitcher",
+      "description":
+        "Molly Pitcher was the name given in several varying stories about women who fought in the American Revolution. Some of these stories may be based on events that happened to a Mary Hays McCauley, who is most commonly associated with the name \"Molly Pitcher,\" and some may be about a Margaret Corbin. (Molly was a common nickname for \"Mary,\" which was itself a very common name of the time.)",
+      "img":
+        "https://www.thoughtco.com/thmb/mCULuXN-ag6N2EIknmM2yMoPF4M=/1024x818/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-517201762-5b63525146e0fb00259fe30b.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Joan Baez",
+      "description":
+        "Joan Baez, part of the 1960s folk revival, is also known for her advocacy of peace and human rights.",
+      "img":
+        "https://www.thoughtco.com/thmb/cJ0JL3QWDaRt_jHluOs0t6t94BE=/1024x683/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1007404092-5b63529a46e0fb00250ba159.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Eva Peron",
+      "description":
+        "Señora Maria Eva Duarte de Perón, known as Eva Perón or Evita Perón, was an actress who married Argentian Juan Perón and helped him win the presidency, becoming active in politics and the labor movement herself.",
+      "img":
+        "https://www.thoughtco.com/thmb/klmGAYRDb-elStYKKGe5tbRIZwU=/1024x802/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515253918-5b635354c9e77c0050bbed76.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Lizzie Borden",
+      "description":
+        "\"Lizzie Borden took an axe, and gave her mother 40 whacks.\" Or did she? Lizzie Borden was accused (and acquitted) of the murders of her father and stepmother. Recent books investigating the murders come to contradictory conclusions. It appears this mystery will never be definitively resolved.",
+      "img":
+        "https://www.thoughtco.com/thmb/zI8DR4Ltkuu-CCTDFkxjvnSMuJc=/1024x779/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515508630-5b6353a846e0fb0025a0171d.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Michelle Kwan",
+      "description":
+        "Michelle Kwan, a champion figure skater, is remembered by many for her Olympic performances, though the gold medal eluded her.",
+      "img":
+        "https://www.thoughtco.com/thmb/2xE0O5LRyk8rUAAuaQkicPHKwCw=/1024x683/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-916834684-5b63540a46e0fb00250bdd37.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Billie Holiday",
+      "description":
+        "Billie Holiday (born Eleanora Fagan and nicknamed Lady Day) was a dazzling jazz singer who came from a tough past and struggled against racial discrimination and her own addictions.",
+      "img":
+        "https://www.thoughtco.com/thmb/zz5xnacWWZzdG3Wm07i13XKl74c=/2867x2326/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-103933769-5b63548346e0fb00820a0c5f.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Alice Walker",
+      "description":
+        "Alice Walker, African American novelist and author of \"The Color Purple,\" as well as an activist, depicted sexism, racism, and poverty that were met with the strengths of family, community, self-worth, and spirituality.",
+      "img":
+        "https://www.thoughtco.com/thmb/OeXY5DNVc2LleMHpMOZLbgb7EDY=/1648x1099/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Alice-Walker-2005-113650042x2-58b74cd93df78c060e22bcb9.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Virginia Woolf",
+      "description":
+        "Virginia Woolf, a prominent modernist English writer of the early 20th century, wrote many novels and essays, including \"A Room of One's Own,\" an essay asserting and defending women's creative potential.",
+      "img":
+        "https://www.thoughtco.com/thmb/z5TLMMG5rdxMngMO_iksRN0JvU4=/3994x2924/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-55853534-5b63559c4cedfd0050b27608.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Ayn Rand",
+      "description":
+        "Ayn Rand, mother of objectivism, was, in the words of Scott McLemee, \"the single most important novelist and philosopher of the 20th century. Or so she admitted with all due modesty, whenever the subject came up.\"",
+      "img":
+        "https://www.thoughtco.com/thmb/q0eaRwmGbmkI9LWlXFJbA7A0ly4=/1024x751/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-514686304-5b6355fb4cedfd0050b28340.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Clara Barton",
+      "description":
+        "Clara Barton, a pioneering nurse who served as an administrator in the Civil War and who helped identify missing soldiers at the end of the war, is credited as the founder of the American Red Cross.",
+      "img":
+        "https://www.thoughtco.com/thmb/okDblCPf0R1Exn7Py3AcpZtJiPE=/1024x838/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-517443846-5b63566746e0fb0025a07def.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Jane Fonda",
+      "description":
+        "Jane Fonda, an actress who was the daughter of actor Henry Fonda,  was controversial over her Vietnam-era anti-war activities. She was also central to the fitness craze of the 1970s.",
+      "img":
+        "https://www.thoughtco.com/thmb/StWrSXEBUSCVUpMfHifHuf-0mrA=/1024x845/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970690176-5b6356c3c9e77c0025756d25.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Eleanor Roosevelt",
+      "description":
+        "Eleanor Roosevelt, wife of President Franklin D. Roosevelt, was his \"eyes and ears\" when he could not travel freely due to his disability. Her positions on issues like civil rights were often ahead of her husband's and the rest of the country. She was key in establishing the U.N. Declaration of Human Rights.",
+      "img":
+        "https://www.thoughtco.com/thmb/6OQ767FQnh1LpWb6l5BiOtly7fc=/3384x2676/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3397049-5b63577646e0fb00507f15d2.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Susan B. Anthony",
+      "description":
+        "Susan B. Anthony was the best-known of the \"first wave\" supporters of women's rights. Her long support of women's suffrage helped the movement succeed, though she did not live to see it achieved.",
+      "img":
+        "https://www.thoughtco.com/thmb/9cG5Ib6Zu5JjDJE0AEuVDfWcl9o=/3222x2515/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-143424692-5b6357c246e0fb005038c82e.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Queen Victoria",
+      "description":
+        "Queen Victoria of Great Britain ruled at a time when her nation was a great empire, and her name was given to an entire age.",
+      "img":
+        "https://www.thoughtco.com/thmb/fyxAitdbC_Iq-98_IuMYO3E6Iqw=/1024x851/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1003422504-5b6358d2c9e77c007b1b0190.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Queen Elizabeth",
+      "description":
+        "Which Queen Elizabeth is meant in the internet searches? There's Queen Elizabeth I of England, or her much-later relative, ​Queen Elizabeth II. Then there's Queen Elizabeth who was also known as the Winter Queen and a whole lot of others.​",
+      "img":
+        "https://www.thoughtco.com/thmb/iLam3zqmZAE5peUoZOdudDZj1gc=/4726x3713/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-463894711-5b63594546e0fb00250ca8d1.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Florence Nightingale",
+      "description":
+        "Florence Nightingale practically invented the profession of nursing. She also brought sanitary conditions to soldiers in wars, at a time when more soldiers typically died of disease than of injuries in battle.",
+      "img":
+        "https://www.thoughtco.com/thmb/r4xQESgOCbALtvZSQI_4DXi19Js=/4835x3607/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-463986991-5b635994c9e77c002ca72fd9.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Pocahontas",
+      "description":
+        "Pocahontas was a real person, not much like the Disney cartoon portrayal of her. Her role in the early English settlement of Virginia was key to survival of the colonists. Did she save John Smith? Maybe, maybe not.",
+      "img":
+        "https://www.thoughtco.com/thmb/O10hlsRPKcRoY1yTeoObGiptsO8=/5054x3458/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-463998727-5b635a1d46e0fb002581d829.jpg"
+    },
+    {
+      "id": 82,
+      "name": "Amelia Earhart",
+      "description":
+        "Amelia Earhart, a pioneer aviator (aviatrix), set many records before her 1937 disappearance during an attempt to fly around the world. As a daring woman, she became an icon when the organized women's movement had virtually disappeared.",
+      "img":
+        "https://www.thoughtco.com/thmb/iK_Gv27SqrrLGI7p7RwAEo4LOdA=/1024x819/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667386714-5b635a5246e0fb00251105f9.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Marie Curie",
+      "description":
+        "Marie Curie was the first well-known woman scientist in the modern world and is known as the \"mother of modern physics\" for her research in radioactivity. She won two Nobel Prizes: for physics (1903) and chemistry (1911).",
+      "img":
+        "https://www.thoughtco.com/thmb/sneMf15NIxU45OMofC0oVVUz2ok=/3815x2744/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-463915105-5b635aad46e0fb00820b02e2.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Shirley Temple",
+      "description":
+        "Shirley Temple Black was a child actress who charmed movie audiences. She later served as an ambassador.",
+      "img":
+        "https://www.thoughtco.com/thmb/_iD-oFh6qqNTqXJs3zFVrQjV0xQ=/2817x2205/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-2642529-5b635adec9e77c0050bd1107.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Lucille Ball",
+      "description":
+        "Lucille Ball is best known for her television shows, but she also appeared in dozens of films, was a Ziegfeld Girl, and was a successful businesswoman—the first woman to own a film studio.",
+      "img":
+        "https://www.thoughtco.com/thmb/gC0sBfkY1e1IQ9M5jUP7PXS3b_A=/3016x2421/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-120357183-5b635b1446e0fb005049519e.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Hillary Clinton",
+      "description":
+        "Hillary Clinton, First Lady as wife to President Bill Clinton (1994–2001), was an attorney and reform advocate before moving to the White House. She then made history by being elected to the Senate, serving as secretary of state, and twice running for president. During her second run in 2016, she became the first female presidential candidate in U.S. history to be nominated by a major political party. ",
+      "img":
+        "https://www.thoughtco.com/thmb/9GYVs_kLCGH--yjO7E9Tr8T6zlA=/1024x681/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1003445862-5b635b8746e0fb0050395bc0.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Helen Keller",
+      "description":
+        "The story of Helen Keller has inspired millions. Though she was deaf and blind after a childhood illness, with the support of her teacher, Anne Sullivan, she learned signing and Braille, graduated from Radcliffe, and helped change the world's perception of the disabled.",
+      "img":
+        "https://www.thoughtco.com/thmb/gnskzsEWBTjTH6vIVfMvIdSzogA=/3708x2898/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3241023-5b635bebc9e77c007b1b7a0b.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Rosa Parks",
+      "description":
+        "Rosa Parks is best known for her refusal to move to the back of a bus in Montgomery, Alabama, and her subsequent arrest, which kicked off a bus boycott and accelerated the civil rights movement.",
+      "img":
+        "https://www.thoughtco.com/thmb/1KVmZCOmQOKjL9cSMUzzC9l1E4w=/3522x2400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-99991300-5b635c45c9e77c0025763dec.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Maya Angelou",
+      "description":
+        "Maya Angelou, a poet and novelist, is known for her beautiful words and big heart.",
+      "img":
+        "https://www.thoughtco.com/thmb/ZXOkIjmwxSEKtq0OAt_FIhl_ERc=/3000x2417/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-74252590-5b635c8846e0fb0025115c3b.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Harriet Tubman",
+      "description":
+        "Harriet Tubman, the Underground Railroad conductor during American slavery, was also a Civil War nurse and spy, and an advocate of civil rights and women's rights.",
+      "img":
+        "https://www.thoughtco.com/thmb/64T_4Yhlj_ThF8eDTKdxAjZhR4Q=/3692x2835/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-463923975-5b635cdcc9e77c007b1b9b20.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Frida Kahlo",
+      "description":
+        "Frida Kahlo was a Mexican painter whose style reflected Mexican folk culture and her own pain and suffering, both physical and emotional.",
+      "img":
+        "https://www.thoughtco.com/thmb/_P-Qsi9zOu1TmVouY2innzPU0x8=/3000x1966/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frida-kahlo-exhibit-2010-germany-58b74ccf3df78c060e22b4ca.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Mother Teresa",
+      "description":
+        "Mother Teresa of Calcutta, from Yugoslavia, decided early in her life that she had a religious vocation to serve the poor, and went to India to serve. She won the Nobel Peace Prize for her work.",
+      "img":
+        "https://www.thoughtco.com/thmb/B5SIhgXGLCk09vFnFnVFDh3CcP8=/5340x3576/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-56799974-5b635d724cedfd0050b3a178.jpg"
+    },
+    {
+      "id": 93,
+      "name": "Oprah Winfrey",
+      "description":
+        "Oprah Winfrey, talk show host, is also one of America's most successful businesspeople and a philanthropist.",
+      "img":
+        "https://www.thoughtco.com/thmb/6_sxcJFervfh3y2h-zPBIJn6bAc=/1024x879/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-972277390-5b635dac46e0fb0025118a84.jpg"
+    },
+    {
+      "id": 94,
+      "name": "Joan of Arc",
+      "description":
+        "Joan of Arc was burned at the stake after she helped restore the King of France to his throne. She was later canonized.",
+      "img":
+        "https://www.thoughtco.com/thmb/OroSVVKgkarH_vHDWWNNCF55NcM=/1024x843/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-529013065-5b635e1b46e0fb00250d6699.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Emily Dickinson",
+      "description":
+        "Emily Dickinson, who published little during her lifetime and was a noted recluse, revolutionized poetry with her verse.",
+      "img":
+        "https://www.thoughtco.com/thmb/29Kg2dStSOPFD49gF-lC1dp9pgM=/1485x1172/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-171135660-5b635e7546e0fb00250d7558.jpg"
+    },
+    {
+      "id": 96,
+      "name": "Diana, Princess of Wales",
+      "description":
+        "Diana, Princess of Wales—known as Princess Diana—captured hearts around the world with her fairy-tale romance, marital struggles, and then an untimely death.",
+      "img":
+        "https://www.thoughtco.com/thmb/gGyMlLEd-Eq7rryUDrbsveP7ZGE=/1024x695/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-909570324-5b635efec9e77c002ca8100e.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Anne Frank",
+      "description":
+        "Anne Frank, a young Jewish girl in the Netherlands, kept a diary during the time she and her family were hiding from the Nazis. She did not survive her time in a concentration camp, but her diary still speaks of hope in the midst of war and persecution.",
+      "img":
+        "https://www.thoughtco.com/thmb/ee9gPtTvimsYeQ-6evjCrfk9bd8=/1024x667/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919878722-5b635fdd46e0fb00820bd61a.jpg"
+    },
+    {
+      "id": 98,
+      "name": "Cleopatra",
+      "description":
+        "Cleopatra, the last Pharaoh of Egypt, had infamous liaisons with Julius Caesar and Mark Antony while trying to keep Egypt out of Rome's clutches. She chose death rather than captivity when she lost this battle.",
+      "img":
+        "https://www.thoughtco.com/thmb/BF-jUjxb5i2hJPN2YkBZhg0-bas=/3613x1641/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-51244057-5b63602a46e0fb002582c928.jpg"
+    },
+    {
+      "id": 99,
+      "name": "Marilyn Monroe",
+      "description":
+        "Actress and icon Marilyn Monroe was discovered while working in a World War II defense plant. She was considered a \"sex symbol\" and epitomized a certain image for women in the 1940s and 1950s.",
+      "img":
+        "https://www.thoughtco.com/thmb/gIeZgFccJmRFr_VY0dmOyjehjvY=/3000x2445/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-74284348-5b636061c9e77c005051d13c.jpg"
+    },
+    {
+      "id": 100,
+      "name": "Madonna",
+      "description":
+        "Madonna: Which one? The singer and sometimes actress—and very successful self-promoter and businesswoman? The mother of Jesus? The image of Mary and other saintly mothers in medieval paintings? Yes, \"Madonna\" is the No. 1 woman of history searched for year after year on the Internet—even if the searches are certainly for more than one woman.",
+      "img":
+        "https://www.thoughtco.com/thmb/4aUZpjIKjH7ANrNz2BDNbHH4bG8=/3839x2760/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136770766-5b6360a0c9e77c007b1c2f69.jpg"
+    }
+  ]
+}
